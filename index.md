@@ -13,3 +13,9 @@ $ git init
 let message = 'Hello world';
 console.log(`Message: ${message}`);
 ```
+
+# Task list
+- [x] Create task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
